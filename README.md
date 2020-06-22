@@ -83,5 +83,5 @@ vagrant box remove arnoan/lucedb
 Then simply delete the folder to which this repository was cloned.  
 There are no other places where information is stored. 
 
-# Consent based contract is defined in ConsentContract.sol file.
-# Pythin Notebook "VikasContractTest" defines the functionality to run the contract.
+* Consent based contract is defined in ConsentContract.sol file.
+* Pythin Notebook "VikasContractTest" defines the functionality to run the contract.
